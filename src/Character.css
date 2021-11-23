@@ -1,0 +1,23 @@
+.image-character{
+    width: 20vw;
+    height: 60vh;
+    background-color: red;
+    position: relative;
+    margin: 0;
+}
+.image-character img{
+
+ width: 20vw
+ ;height: 60vh;
+ margin: 0;
+
+}
+
+.name{
+position: absolute;
+    color: white;
+    bottom:5%;
+    left: 5%;
+ 
+
+}
